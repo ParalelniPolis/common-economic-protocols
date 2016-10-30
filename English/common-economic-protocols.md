@@ -6,6 +6,7 @@ The Common Economic Protocols
 1.0 INTRODUCTION
 ----------------
 This document contains the Common Economic Protocols, followed by a statement of their philosophical and theoretical background. Appended to this document are maxims of law.
+
 The Common Economic Protocols are designed to facilitate justice in non-jurisdictional “locales,” such as in cyberspace.
 
 2.0 THE COMMON ECONOMIC PROTOCOLS
@@ -31,23 +32,23 @@ The Common Economic Protocols are designed to facilitate justice in non-jurisdic
 
 10.	Voluntary transaction must be preserved. The exceptions to this principle are:
 
-⋅⋅1.	Necessities: Situations (usually emergencies), where there is no functional voluntary market.
+  1.	Necessities: Situations (usually emergencies), where there is no functional voluntary market.
 
-⋅⋅2.	Mistakes: Where the voluntary market is accidentally transgressed with no insult to the market intended.
+  2.	Mistakes: Where the voluntary market is accidentally transgressed with no insult to the market intended.
 
 11.	Judgments are assessed for two reasons:
 
-⋅⋅1.	To recompense the injured party.
+  1.	To recompense the injured party.
 
-⋅⋅2.	To keep secure the survival and primacy of voluntary transactions and the free, functional market. [3]
+  2.	To keep secure the survival and primacy of voluntary transactions and the free, functional market. [3]
 
 12.	The purpose of law is to facilitate beneficial interaction, and to minimize conflict. The primary principles of which are:
 
-⋅⋅1.	Individual liberty (self-ownership).
+  1.	Individual liberty (self-ownership).
 
-⋅⋅2.	Private property.
+  2.	Private property.
 
-⋅⋅3.	Free contract.
+  3.	Free contract.
 
 13.	Freedom of trade, freedom of thought, freedom of speech, and freedom of action are but modifications of one great fundamental principle; all must be maintained, or all are at risk.
 
