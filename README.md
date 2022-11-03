@@ -5,8 +5,8 @@ The Common Economic protocols are rules for voluntary interactions based on indi
 
 These *Common Economic Protocols* were placed under public domain by Andre Goldman. There is more to it than the public domain part:
 
- * [Common Economic Protocols](https://anarplex.net/hosted/files/TheCommonEconomicProtocols.pdf)
- * [Common Economic Protocols - The Maxims](https://anarplex.net/hosted/files/TheMaxims.pdf)
+ * [Common Economic Protocols](https://darknet.org/hosted/files/TheCommonEconomicProtocols.pdf)
+ * [Common Economic Protocols - The Maxims](https://darknet.org/hosted/files/TheMaxims.pdf)
 
 We in [Parallel Polis Institute of Cryptoanarchy](https://www.paralelnipolis.cz/o-nas/en/) decided to build upon them and facilitate their translation to local languages, so they might be used by more people in their voluntary interactions. We have only used the part that is in public domain (and all derived works here also remain in public domain).
 
