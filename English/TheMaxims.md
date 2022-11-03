@@ -1,5 +1,7 @@
-#MAXIMS
+# MAXIMS
+
 Version 1.1
+
 =============================
 
 These maxims of law are provided to supplement the [Common Economic Protocols](https://github.com/niclaz/common-economic-protocols/blob/master/English/common-economic-protocols.md).
@@ -30,7 +32,8 @@ an exception to an apparently general rule.
 If further information is required, consult Bouvier’s 1856 Law Dictionary, from which
 these were originally drawn.
 
-##THE MAXIMS
+## THE MAXIMS
+
 1. There should be no departure from common observance or usage.
 2. No one is bound to do what is impossible.
 3. An absolute unqualified sentence or proposition, needs no expositor.
